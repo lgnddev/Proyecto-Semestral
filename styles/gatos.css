@@ -1,0 +1,14 @@
+.introduccion{
+    width: 500px;
+    height: 250px;
+    text-align: center;
+    position:relative;
+    left:40%
+}
+
+.imagenes {
+    width: 500px;
+    height: 100px;
+    position:relative;
+    left:42%
+}
